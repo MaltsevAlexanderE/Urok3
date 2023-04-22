@@ -40,3 +40,8 @@
 
 ## 8. Работа с удалённым репозиторием
 Для создания копии удалённого репозитория необходимо скопировать ссылку, на него и в терминале прописать git clone "ссылка на репозиторий"
+Для загрузки файлов на удалённый репозиторий github используется команды 
+git remote add origin https://github.com/MaltsevAlexanderE/Urok3.git
+git branch -M master
+git push -u origin master
+![github](github.png)
