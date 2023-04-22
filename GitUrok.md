@@ -45,3 +45,5 @@ git remote add origin https://github.com/MaltsevAlexanderE/Urok3.git
 git branch -M master
 git push -u origin master
 ![github](github.png)
+Для выгрузки файлов с репозитория используется команда git pull
+Для загрузки файлов на репозиторий используется команда git push
